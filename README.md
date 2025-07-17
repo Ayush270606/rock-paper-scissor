@@ -35,6 +35,8 @@ rock-paper-scissors/
 
 That’s it! You can now play the game in your browser.
 
+Alter-https://rock-paper-scissor-game-online.netlify.app/
+
 ## 💡 Technologies Used
 
 - HTML5
